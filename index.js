@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 const prefix = '='
-const token = 'NzQwNjA1MTYyMDkwOTIyMDY0.XyrcTg.NxWoglZWAL-nEzJ74-J-hpChWVI'
+const token = ''
 
 bot.on('ready', () => {
     console.log(`Logged in as ${bot.user.tag}`);
